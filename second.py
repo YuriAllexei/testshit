@@ -1,0 +1,1 @@
+print("ola kra d kola")
